@@ -1,2 +1,2 @@
-# Project-Year-1
-Dynamics of Infectious Diseases
+# Dynamics of Infectious Diseases
+Project Year 1
